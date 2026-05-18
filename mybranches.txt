@@ -2,3 +2,4 @@ This is text 1.
 this is text 1 second line
 this is test one third line
 logo alignment is centred
+text align center 
